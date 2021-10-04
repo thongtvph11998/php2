@@ -1,0 +1,37 @@
+article{
+	height:auto;
+}
+
+.ct-left{
+	margin-top: 50px;
+	width: 550px;
+	margin-left: 100px;
+	float: left;
+	
+}
+.ct-left img{
+	width: 500px;
+	height: 550px;
+	
+}
+.ct-right{
+	float: left;
+	width: 570px;
+	padding-left: 15px;
+	margin-top: 50px;
+}
+.ct-right button{
+        border:none;
+        background: orangered;
+        border-radius: 5px;
+        color: white;
+        font-size: 20px;
+}
+.ndct{
+	clear: both;
+	padding-top: 50px;
+}
+.note{ 
+	
+    color: red;
+}

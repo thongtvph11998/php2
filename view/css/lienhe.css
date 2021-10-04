@@ -1,0 +1,163 @@
+   body {
+        width: 1300px;
+
+        margin: 0px auto;
+      }
+      .left {
+        width: 290px;
+        height: 120px;
+        float: left;
+      }
+      .left img {
+        width: 270px;
+        height: 120px;
+        padding-left: 115px;
+      }
+      .center {
+        width: 480px;
+        height: 120px;
+        padding-left: 20px;
+        float: left;
+      }
+
+      .center input {
+        margin-top: 45px;
+        width: 380px;
+        height: 40px;
+
+        float: left;
+        border-radius: 25px;
+        border: 2px solid black;
+      }
+      .center img {
+        margin-top: 50px;
+        padding-left: 5px;
+        width: 30px;
+        height: 30px;
+      }
+
+      .right {
+        width: 520px;
+        height: 120px;
+        float: right;
+      }
+      .icondt img {
+        width: 30px;
+        height: 30px;
+        margin-top: 50px;
+        float: left;
+      }
+      .icondt span {
+        margin-top: 55px;
+        padding-left: 10px;
+        float: left;
+        font-size: 17px;
+        color: orangered;
+        padding-right: 30px;
+      }
+      .icongh img {
+        width: 30px;
+        height: 30px;
+        margin-top: 50px;
+        float: left;
+      }
+      .icongh span {
+        margin-top: 55px;
+        padding-left: 10px;
+        float: left;
+        font-size: 17px;
+        color: orangered;
+        padding-right: 30px;
+      }
+      .admin img {
+        width: 30px;
+        height: 30px;
+        margin-top: 50px;
+        float: left;
+      }
+      .admin span {
+        margin-top: 55px;
+        padding-left: 10px;
+        float: left;
+        font-size: 17px;
+        color: orangered;
+      }
+      /* header */
+      
+      
+      a:hover {
+      text-decoration: none;
+      } 
+      nav {
+        height: 45px;
+        clear: both;
+        font-family:sans-serif;
+        font-size: 20px;
+        background: #007784;
+        margin-bottom: 3px;
+        
+      }
+      nav a{
+       line-height: 45px;
+       color: white;
+       margin: 25px;
+
+      }
+      nav a:hover {
+       color: red;
+       font-size: 25px;
+      }
+
+      /*footer*/
+      footer{
+        clear: both;
+        
+        height: 270px;
+        margin:auto;
+        background-color: #2D2D2D; 
+        
+      }
+      footer a{
+        color: white;
+      }
+      footer a:hover{
+        color: red;
+      }
+      .footer{
+        width: 300px;
+        float: left;
+        text-align: center;
+        padding: 50px;
+      
+      }
+     .footer2{
+       clear: both;
+       height: 50px;
+       background: #121212;
+       line-height: 50px;
+     }
+      /* liên hệ*/
+      .article_lienhe{
+
+
+      color:#007784;
+      font-size:30px; 
+      padding: 20px;
+      margin: 20px;
+     }.article_lienhe a{
+      text-decoration: none;
+
+     }.article_lienhe a:hover{
+      color: orangered;
+
+     }
+     .article_lienhe tr td {
+      width: 500px;
+      text-align: center;
+
+     }
+     .article_lienhe table {
+       font-weight: bold;
+
+     
+     }
